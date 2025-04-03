@@ -29,11 +29,19 @@ XGBoost Regressor 🚀
 Each model’s performance is evaluated using the R² score, and the results are compared.
 
 📊 Results
+
   Model	             R² Score
+  
 Linear Regression	   0.63
-Linear Regression (After Outlier Handling)	0.64
+
+Linear Regression
+(After Outlier
+Handling)            0.64
+
 Decision Tree	Score  0.87
+
 Random Forest	Score  0.89
+
 XGBoost              0.88	
 
 Best score-0.89
